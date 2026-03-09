@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+
+# Excel 结果文件
+*.xlsx
+*.xls
+*.xlsm
+
+# 调试 JSON
+PGM_debug_*.json
+
